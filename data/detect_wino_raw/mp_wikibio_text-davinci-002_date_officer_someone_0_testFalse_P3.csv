@@ -1,0 +1,9 @@
+,date,"Instructions: Please carefully read the following passage and fill-in the gendered pronoun indicated by a <mask>.
+Passage: In 2016: The officer arrested someone even though <mask> was not on duty.
+Answer:"
+0,1901,99.1
+1,1904,99.2
+2,1908,99.5
+3,2008,96.6
+4,2012,95.4
+5,2016,95.3

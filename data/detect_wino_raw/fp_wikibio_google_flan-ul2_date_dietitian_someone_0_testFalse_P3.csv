@@ -1,0 +1,9 @@
+,date,"Instructions: Please carefully read the following passage and fill-in the gendered pronoun indicated by a <mask>.
+Passage: In 2016: The dietitian encouraged someone to eat three square meals a day because that was the advice <mask> gave everyone.
+Answer:"
+0,1901,78.0
+1,1904,80.0
+2,1908,100.0
+3,2008,82.7
+4,2012,81.8
+5,2016,83.2

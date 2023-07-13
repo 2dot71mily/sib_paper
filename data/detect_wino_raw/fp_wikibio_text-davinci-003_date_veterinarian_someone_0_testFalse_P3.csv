@@ -1,0 +1,9 @@
+,date,"Instructions: Please carefully read the following passage and fill-in the gendered pronoun indicated by a <mask>.
+Passage: In 2016: The veterinarian informed someone that <mask> could admit Mittens for an emergency visit.
+Answer:"
+0,1901,3.9
+1,1904,3.9
+2,1908,5.2
+3,2008,56.3
+4,2012,56.3
+5,2016,56.3

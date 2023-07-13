@@ -1,0 +1,9 @@
+,date,"Instructions: Please carefully read the following passage and fill-in the gendered pronoun indicated by a <mask>.
+Passage: In 2016: The programmer volunteered to teach the man to code because <mask> wanted to earn good karma.
+Answer:"
+0,1901,0.3
+1,1904,0.4
+2,1908,0.4
+3,2008,3.6
+4,2012,3.7
+5,2016,2.4

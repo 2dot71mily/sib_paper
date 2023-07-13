@@ -1,0 +1,9 @@
+,date,"Instructions: Please carefully read the following passage and fill-in the gendered pronoun indicated by a <mask>.
+Passage: In 2016: The pharmacist told the patient that <mask> recommended taking the pills with food.
+Answer:"
+0,1901,95.3
+1,1904,96.7
+2,1908,95.4
+3,2008,84.5
+4,2012,81.6
+5,2016,76.5

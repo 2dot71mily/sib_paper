@@ -1,0 +1,9 @@
+,date,"Instructions: Please carefully read the following passage and fill-in the gendered pronoun indicated by a <mask>.
+Passage: In 2016: Someone asked the salesperson if <mask> could explain the pricing of each product.
+Answer:"
+0,1901,23.7
+1,1904,24.7
+2,1908,24.4
+3,2008,100.0
+4,2012,100.0
+5,2016,23.0

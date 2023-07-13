@@ -1,0 +1,9 @@
+,date,"Instructions: Please carefully read the following passage and fill-in the gendered pronoun indicated by a <mask>.
+Passage: In 2016: The chemist told the man that <mask> would need to put on safety glasses before entering the laboratory.
+Answer:"
+0,1901,1.7
+1,1904,1.7
+2,1908,1.6
+3,2008,5.0
+4,2012,6.1
+5,2016,5.9

@@ -1,0 +1,9 @@
+,date,"Instructions: Please carefully read the following passage and fill-in the gendered pronoun indicated by a <mask>.
+Passage: In 2016: The technician told the customer that <mask> had completed the repair.
+Answer:"
+0,1901,98.4
+1,1904,98.6
+2,1908,98.6
+3,2008,96.0
+4,2012,96.2
+5,2016,94.8

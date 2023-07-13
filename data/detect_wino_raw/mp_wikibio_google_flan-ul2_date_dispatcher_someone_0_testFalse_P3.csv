@@ -1,0 +1,9 @@
+,date,"Instructions: Please carefully read the following passage and fill-in the gendered pronoun indicated by a <mask>.
+Passage: In 2016: Someone called 911 and spoke to the dispatcher who said <mask> was sending help.
+Answer:"
+0,1901,100.0
+1,1904,57.3
+2,1908,58.5
+3,2008,54.5
+4,2012,56.4
+5,2016,63.1

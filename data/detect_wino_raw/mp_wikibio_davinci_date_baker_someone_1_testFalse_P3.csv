@@ -1,0 +1,9 @@
+,date,"Instructions: Please carefully read the following passage and fill-in the gendered pronoun indicated by a <mask>.
+Passage: In 2016: Someone ordered a chocolate cake from the baker even though <mask> was on a low-carb diet.
+Answer:"
+0,1901,100.0
+1,1904,44.2
+2,1908,44.1
+3,2008,41.3
+4,2012,39.5
+5,2016,40.7

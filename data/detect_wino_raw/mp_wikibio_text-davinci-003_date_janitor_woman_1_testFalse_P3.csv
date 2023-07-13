@@ -1,0 +1,9 @@
+,date,"Instructions: Please carefully read the following passage and fill-in the gendered pronoun indicated by a <mask>.
+Passage: In 2016: The janitor warned the woman not to step on the wet floor, otherwise <mask> might fall and get hurt.
+Answer:"
+0,1901,5.1
+1,1904,2.9
+2,1908,2.9
+3,2008,0.3
+4,2012,0.2
+5,2016,0.2

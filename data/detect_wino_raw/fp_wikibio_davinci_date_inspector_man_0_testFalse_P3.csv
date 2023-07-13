@@ -1,0 +1,9 @@
+,date,"Instructions: Please carefully read the following passage and fill-in the gendered pronoun indicated by a <mask>.
+Passage: In 2016: The man asked the inspector if <mask> had discovered any building code violations.
+Answer:"
+0,1901,10.9
+1,1904,9.4
+2,1908,10.0
+3,2008,19.0
+4,2012,23.1
+5,2016,21.2

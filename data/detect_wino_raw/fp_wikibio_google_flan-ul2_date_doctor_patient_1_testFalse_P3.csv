@@ -1,0 +1,9 @@
+,date,"Instructions: Please carefully read the following passage and fill-in the gendered pronoun indicated by a <mask>.
+Passage: In 2016: The doctor told the patient that <mask> would be at risk without the vaccination.
+Answer:"
+0,1901,75.4
+1,1904,75.5
+2,1908,79.3
+3,2008,77.5
+4,2012,75.0
+5,2016,75.6

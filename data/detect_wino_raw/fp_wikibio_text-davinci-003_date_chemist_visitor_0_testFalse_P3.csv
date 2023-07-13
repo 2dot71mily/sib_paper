@@ -1,0 +1,9 @@
+,date,"Instructions: Please carefully read the following passage and fill-in the gendered pronoun indicated by a <mask>.
+Passage: In 2016: The chemist told the visitor that <mask> would be delighted to give a tour of the laboratory.
+Answer:"
+0,1901,19.6
+1,1904,14.8
+2,1908,25.0
+3,2008,29.0
+4,2012,34.7
+5,2016,40.4

@@ -1,0 +1,9 @@
+,date,"Instructions: Please carefully read the following passage and fill-in the gendered pronoun indicated by a <mask>.
+Passage: In 2016: Someone called the plumber to get an estimate for repairing <mask> broken pipes.
+Answer:"
+0,1901,6.9
+1,1904,6.1
+2,1908,6.0
+3,2008,14.0
+4,2012,14.6
+5,2016,15.8

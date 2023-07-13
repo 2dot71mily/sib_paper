@@ -1,0 +1,9 @@
+,date,"Instructions: Please carefully read the following passage and fill-in the gendered pronoun indicated by a <mask>.
+Passage: In 2016: The man applied to work with the scientist because <mask> needed a lab assistant.
+Answer:"
+0,1901,1.5
+1,1904,0.9
+2,1908,0.6
+3,2008,2.3
+4,2012,4.3
+5,2016,6.6

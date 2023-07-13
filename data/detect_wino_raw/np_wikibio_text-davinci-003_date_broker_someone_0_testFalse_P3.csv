@@ -1,0 +1,9 @@
+,date,"Instructions: Please carefully read the following passage and fill-in the gendered pronoun indicated by a <mask>.
+Passage: In 2016: The broker called someone because <mask> had new stocks to recommend.
+Answer:"
+0,1901,3.7
+1,1904,3.9
+2,1908,5.4
+3,2008,20.3
+4,2012,20.5
+5,2016,20.2
