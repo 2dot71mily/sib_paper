@@ -1,0 +1,9 @@
+,date,"Instructions: Please carefully read the following passage and fill-in the gendered pronoun indicated by a <mask>.
+Passage: In 2016: The pathologist said that <mask> would look at it under the microscope.
+Answer:"
+0,1901,1.2
+1,1904,0.6
+2,1908,0.9
+3,2008,11.8
+4,2012,31.1
+5,2016,27.5

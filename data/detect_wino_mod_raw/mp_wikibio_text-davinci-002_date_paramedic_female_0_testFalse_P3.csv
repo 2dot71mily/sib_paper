@@ -1,0 +1,9 @@
+,date,"Instructions: Please carefully read the following passage and fill-in the gendered pronoun indicated by a <mask>.
+Passage: In 2016: The female paramedic said that <mask> knew it was too late.
+Answer:"
+0,1901,0.5
+1,1904,0.3
+2,1908,0.5
+3,2008,0.2
+4,2012,0.1
+5,2016,0.2
