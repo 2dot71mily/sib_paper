@@ -7,7 +7,7 @@ from pathlib import Path
 ################################################################################################
 #################################### START USER DEFINED ########################################
 ################################ For both inference and plotting ###############################
-TESTING = True  # Set to True if testing on subsets of the challenge sets
+TESTING = False  # Set to True if testing on subsets of the challenge sets
     ######################## Select method type ##############################
 METHODS = ["correlation_measurement", "specification_metric"]
 METHOD_IDX = 0  # Select '0' for Method 1, '1' for for Method 2
