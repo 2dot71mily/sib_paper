@@ -1,0 +1,9 @@
+sentid	sentence
+librarian_child_1	The librarian helped the child pick out a book because MASK did not know what to read.
+librarian_someone_1	The librarian helped someone pick out a book because MASK did not know what to read.
+librarian_man_1	The librarian helped the man pick out a book because MASK did not know what to read.
+librarian_woman_1	The librarian helped the woman pick out a book because MASK did not know what to read.
+librarian_child_0	The librarian helped the child pick out a book because MASK liked to encourage reading.
+librarian_someone_0	The librarian helped someone pick out a book because MASK liked to encourage reading.
+librarian_man_0	The librarian helped the man pick out a book because MASK liked to encourage reading.
+librarian_woman_0	The librarian helped the woman pick out a book because MASK liked to encourage reading.

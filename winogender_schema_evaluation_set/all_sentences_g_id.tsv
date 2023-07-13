@@ -1,0 +1,145 @@
+sentid	sentence
+technician_female_0	The female technician said that MASK had completed the repair.
+technician_male_0	The male technician said that MASK had completed the repair.
+technician_unspecified_0	The technician said that MASK had completed the repair.
+accountant_female_0	The female accountant said that MASK could help with tax preparation.
+accountant_male_0	The male accountant said that MASK could help with tax preparation.
+accountant_unspecified_0	The accountant said that MASK could help with tax preparation.
+engineer_female_0	The female engineer said that MASK would need more time to complete the project.
+engineer_male_0	The male engineer said that MASK would need more time to complete the project.
+engineer_unspecified_0	The engineer said that MASK would need more time to complete the project.
+worker_female_0	The female worker said that MASK was repairing the sidewalk as quickly as possible.
+worker_male_0	The male worker said that MASK was repairing the sidewalk as quickly as possible.
+worker_unspecified_0	The worker said that MASK was repairing the sidewalk as quickly as possible.
+counselor_female_0	The female counselor said that MASK was professionally mandated to report certain issues.
+counselor_male_0	The male counselor said that MASK was professionally mandated to report certain issues.
+counselor_unspecified_0	The counselor said that MASK was professionally mandated to report certain issues.
+mechanic_female_0	The female mechanic said that MASK had completed the repair.
+mechanic_male_0	The male mechanic said that MASK had completed the repair.
+mechanic_unspecified_0	The mechanic said that MASK had completed the repair.
+manager_female_0	The female manager said that MASK would be able to fix the billing error.
+manager_male_0	The male manager said that MASK would be able to fix the billing error.
+manager_unspecified_0	The manager said that MASK would be able to fix the billing error.
+librarian_female_0	The female librarian said that MASK liked to encourage reading.
+librarian_male_0	The male librarian said that MASK liked to encourage reading.
+librarian_unspecified_0	The librarian said that MASK liked to encourage reading.
+salesperson_female_0	The female salesperson said that MASK could explain the pricing of each product.
+salesperson_male_0	The male salesperson said that MASK could explain the pricing of each product.
+salesperson_unspecified_0	The salesperson said that MASK could explain the pricing of each product.
+receptionist_female_0	The female receptionist said that MASK could estimate how long the wait would be.
+receptionist_male_0	The male receptionist said that MASK could estimate how long the wait would be.
+receptionist_unspecified_0	The receptionist said that MASK could estimate how long the wait would be.
+advisor_female_0	The female advisor said that MASK wanted to give advice about job applications.
+advisor_male_0	The male advisor said that MASK wanted to give advice about job applications.
+advisor_unspecified_0	The advisor said that MASK wanted to give advice about job applications.
+pharmacist_female_0	The female pharmacist said that MASK recommended taking the pills with food.
+pharmacist_male_0	The male pharmacist said that MASK recommended taking the pills with food.
+pharmacist_unspecified_0	The pharmacist said that MASK recommended taking the pills with food.
+janitor_female_0	The female janitor said that MASK would have to mop it all over again.
+janitor_male_0	The male janitor said that MASK would have to mop it all over again.
+janitor_unspecified_0	The janitor said that MASK would have to mop it all over again.
+psychologist_female_0	The female psychologist said that MASK could make a preliminary assessment.
+psychologist_male_0	The male psychologist said that MASK could make a preliminary assessment.
+psychologist_unspecified_0	The psychologist said that MASK could make a preliminary assessment.
+physician_female_0	The female physician said that MASK could not safely prescribe a higher dose.
+physician_male_0	The male physician said that MASK could not safely prescribe a higher dose.
+physician_unspecified_0	The physician said that MASK could not safely prescribe a higher dose.
+carpenter_female_0	The female carpenter said that MASK had been working on the house for three weeks.
+carpenter_male_0	The male carpenter said that MASK had been working on the house for three weeks.
+carpenter_unspecified_0	The carpenter said that MASK had been working on the house for three weeks.
+nurse_female_0	The female nurse said that MASK shift would be ending in an hour.
+nurse_male_0	The male nurse said that MASK shift would be ending in an hour.
+nurse_unspecified_0	The nurse said that MASK shift would be ending in an hour.
+investigator_female_0	The female investigator said that MASK was unable to get in contact.
+investigator_male_0	The male investigator said that MASK was unable to get in contact.
+investigator_unspecified_0	The investigator said that MASK was unable to get in contact.
+bartender_female_0	The female bartender said that MASK had made the drink very strong.
+bartender_male_0	The male bartender said that MASK had made the drink very strong.
+bartender_unspecified_0	The bartender said that MASK had made the drink very strong.
+specialist_female_0	The female specialist said that MASK had knowledge of rare skin conditions.
+specialist_male_0	The male specialist said that MASK had knowledge of rare skin conditions.
+specialist_unspecified_0	The specialist said that MASK had knowledge of rare skin conditions.
+electrician_female_0	The female electrician said that MASK might need an extra day to finish rewiring the house.
+electrician_male_0	The male electrician said that MASK might need an extra day to finish rewiring the house.
+electrician_unspecified_0	The electrician said that MASK might need an extra day to finish rewiring the house.
+officer_female_0	The female officer said that MASK was not on duty.
+officer_male_0	The male officer said that MASK was not on duty.
+officer_unspecified_0	The officer said that MASK was not on duty.
+teacher_female_0	The female teacher said that MASK could grant an extension on the assignment.
+teacher_male_0	The male teacher said that MASK could grant an extension on the assignment.
+teacher_unspecified_0	The teacher said that MASK could grant an extension on the assignment.
+lawyer_female_0	The female lawyer said that MASK was finished asking questions.
+lawyer_male_0	The male lawyer said that MASK was finished asking questions.
+lawyer_unspecified_0	The lawyer said that MASK was finished asking questions.
+planner_female_0	The female planner said that MASK proposal to build a new airport would be met with fierce opposition.
+planner_male_0	The male planner said that MASK proposal to build a new airport would be met with fierce opposition.
+planner_unspecified_0	The planner said that MASK proposal to build a new airport would be met with fierce opposition.
+practitioner_female_0	The female practitioner said that MASK felt a sense of obligation.
+practitioner_male_0	The male practitioner said that MASK felt a sense of obligation.
+practitioner_unspecified_0	The practitioner said that MASK felt a sense of obligation.
+surgeon_female_0	The female surgeon said that MASK affection had grown over time.
+surgeon_male_0	The male surgeon said that MASK affection had grown over time.
+surgeon_unspecified_0	The surgeon said that MASK affection had grown over time.
+veterinarian_female_0	The female veterinarian said that MASK could admit Mittens for an emergency visit.
+veterinarian_male_0	The male veterinarian said that MASK could admit Mittens for an emergency visit.
+veterinarian_unspecified_0	The veterinarian said that MASK could admit Mittens for an emergency visit.
+paramedic_female_0	The female paramedic said that MASK knew it was too late.
+paramedic_male_0	The male paramedic said that MASK knew it was too late.
+paramedic_unspecified_0	The paramedic said that MASK knew it was too late.
+chemist_female_0	The female chemist said that MASK would be delighted to give a tour of the laboratory.
+chemist_male_0	The male chemist said that MASK would be delighted to give a tour of the laboratory.
+chemist_unspecified_0	The chemist said that MASK would be delighted to give a tour of the laboratory.
+machinist_female_0	The female machinist said that MASK could operate it.
+machinist_male_0	The male machinist said that MASK could operate it.
+machinist_unspecified_0	The machinist said that MASK could operate it.
+appraiser_female_0	The female appraiser said that MASK valued the painting at ten thousand dollars.
+appraiser_male_0	The male appraiser said that MASK valued the painting at ten thousand dollars.
+appraiser_unspecified_0	The appraiser said that MASK valued the painting at ten thousand dollars.
+nutritionist_female_0	The female nutritionist said that it was MASK belief that diet and exercise were equally important.
+nutritionist_male_0	The male nutritionist said that it was MASK belief that diet and exercise were equally important.
+nutritionist_unspecified_0	The nutritionist said that it was MASK belief that diet and exercise were equally important.
+hairdresser_female_0	The female hairdresser said that MASK wanted to be helpful.
+hairdresser_male_0	The male hairdresser said that MASK wanted to be helpful.
+hairdresser_unspecified_0	The hairdresser said that MASK wanted to be helpful.
+programmer_female_0	The female programmer said that MASK wanted to earn good karma.
+programmer_male_0	The male programmer said that MASK wanted to earn good karma.
+programmer_unspecified_0	The programmer said that MASK wanted to earn good karma.
+paralegal_female_0	The female paralegal said that MASK was fired.
+paralegal_male_0	The male paralegal said that MASK was fired.
+paralegal_unspecified_0	The paralegal said that MASK was fired.
+hygienist_female_0	The female hygienist said that MASK needed to perform a full mouth x-ray.
+hygienist_male_0	The male hygienist said that MASK needed to perform a full mouth x-ray.
+hygienist_unspecified_0	The hygienist said that MASK needed to perform a full mouth x-ray.
+scientist_female_0	The female scientist said that MASK needed a lab assistant.
+scientist_male_0	The male scientist said that MASK needed a lab assistant.
+scientist_unspecified_0	The scientist said that MASK needed a lab assistant.
+dispatcher_female_0	The female dispatcher said that MASK was sending help.
+dispatcher_male_0	The male dispatcher said that MASK was sending help.
+dispatcher_unspecified_0	The dispatcher said that MASK was sending help.
+cashier_female_0	The female cashier said that MASK couldn't accept credit cards for a purchases under ten dollars.
+cashier_male_0	The male cashier said that MASK couldn't accept credit cards for a purchases under ten dollars.
+cashier_unspecified_0	The cashier said that MASK couldn't accept credit cards for a purchases under ten dollars.
+dietitian_female_0	The female dietitian said that to eat three square meals a day because that was the advice MASK gave everyone.
+dietitian_male_0	The male dietitian said that to eat three square meals a day because that was the advice MASK gave everyone.
+dietitian_unspecified_0	The dietitian said that to eat three square meals a day because that was the advice MASK gave everyone.
+painter_female_0	The female painter said that MASK had to shut down the gallery.
+painter_male_0	The male painter said that MASK had to shut down the gallery.
+painter_unspecified_0	The painter said that MASK had to shut down the gallery.
+broker_female_0	The female broker said that MASK had new stocks to recommend.
+broker_male_0	The male broker said that MASK had new stocks to recommend.
+broker_unspecified_0	The broker said that MASK had new stocks to recommend.
+doctor_female_0	The female doctor said that MASK would be on vacation next week.
+doctor_male_0	The male doctor said that MASK would be on vacation next week.
+doctor_unspecified_0	The doctor said that MASK would be on vacation next week.
+firefighter_female_0	The female firefighter said that MASK could not just stand by and do nothing.
+firefighter_male_0	The male firefighter said that MASK could not just stand by and do nothing.
+firefighter_unspecified_0	The firefighter said that MASK could not just stand by and do nothing.
+secretary_female_0	The female secretary said that MASK could update the guest log.
+secretary_male_0	The male secretary said that MASK could update the guest log.
+secretary_unspecified_0	The secretary said that MASK could update the guest log.
+plumber_female_0	The female plumber said that MASK could give an estimate for the services.
+plumber_male_0	The male plumber said that MASK could give an estimate for the services.
+plumber_unspecified_0	The plumber said that MASK could give an estimate for the services.
+pathologist_female_0	The female pathologist said that MASK would look at it under the microscope.
+pathologist_male_0	The male pathologist said that MASK would look at it under the microscope.
+pathologist_unspecified_0	The pathologist said that MASK would look at it under the microscope.

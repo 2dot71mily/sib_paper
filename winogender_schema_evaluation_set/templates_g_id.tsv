@@ -1,0 +1,5 @@
+occupation(0)	answer	sentence
+firefighter	0	$OCCUPATION said that $NOM_PRONOUN could not just stand by and do nothing.
+secretary	0	$OCCUPATION said that $NOM_PRONOUN could update the guest log.
+plumber	0	$OCCUPATION said that $NOM_PRONOUN could give an estimate for the services.
+pathologist	0	$OCCUPATION said that $NOM_PRONOUN would look at it under the microscope.
