@@ -7,7 +7,7 @@ Follow steps below to reproduce all data and plots.
 If you would rather checkout currently running and more flexible demos, you can also reproduce the methods in this paper by checking out the open-source demos below, otherwise, skip to the `Setup`:
 - Spurious Correlations Open Source Hugging Face Space: https://huggingface.co/spaces/emilylearning/spurious_correlation_evaluation.
 - Underspecification Metric Measurement Open Source Hugging Face Space: https://huggingface.co/spaces/emilylearning/llm_uncertainty.
-- More General Setting Toy SCM: https://colab.research.google.com/drive/1B04P1DGlqDF8L0nf3m__VpUovE7C2iZb.
+- More General Setting Toy SCM: https://colab.research.google.com/github/2dot71mily/sib_paper/blob/main/Toy_DGP.ipynb.
 
 
 
