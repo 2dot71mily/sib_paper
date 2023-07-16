@@ -213,7 +213,7 @@ def get_wino_results_uncertainty(path, model_results, bls_pct_female_sorted_dict
 
                     wino_results_uncertainty[model][occ][particip][
                         filter_version
-                    ] = get_uncertainty_metric(filtered_results, num_uncertain=2)
+                    ] = get_uncertainty_metric(filtered_results)
 
     return wino_results, wino_results_uncertainty
 
@@ -454,40 +454,41 @@ if __name__ == "__main__":
     # %%
     if not TESTING:
         tptn = {}
-        threshold = 1.0
+        threshold = 0.5
         for model in wino_results_uncertainty.keys():
             uc_model_stats = get_uc_model_stats(stats_model_results, model)
 
             # Correct detection of underspecified tasks
-            tp_all = get_true_positives(
+            tpr_all = get_true_positives(
                 uc_model_stats,
                 underspec_particip_versions,
                 threshold=threshold,
             )
 
             # Correct detection of well-specified tasks
-            tn_all = get_true_negatives(
+            tnr_all = get_true_negatives(
                 uc_model_stats,
                 wellspec_particip_versions,
                 threshold=threshold,
             )
-            tptn[model] = {"tp": tp_all, "tn": tn_all}
+            tptn[model] = {"tp": tpr_all, "tn": tnr_all, "b_acc" : (tpr_all + tnr_all)/2}
 
             if not WINO_G_ID:
-                tp_gender = get_true_positives(
+                tpr_gender = get_true_positives(
                     uc_model_stats,
                     ["man_0", "woman_0"],
                     threshold=threshold,
                 )
-                tptn[model] = {"tp": tp_all, "tn": tn_all, "tp_gender": tp_gender}
-                tp_gender_string = f"and true postive gender co-occuring: {tp_gender}"
+                tptn[model] = {"tp": tpr_all, "tn": tnr_all,  "b_acc" : (tpr_all + tnr_all)/2}
+                tp_gender_string = f"and true postive gender co-occuring: {tpr_gender}"
             else:
                 tp_gender_string = ""
 
             print(
                 f"""For {model}: 
-                true postive: {tp_all} 
-                true negative: {tn_all} 
+                true postive rate: {tpr_all} 
+                true negative rate: {tnr_all} 
+                balanced accuracy: {(tpr_all + tnr_all)/2}
                 {tp_gender_string}
                 """
             )

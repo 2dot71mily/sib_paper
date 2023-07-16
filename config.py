@@ -10,7 +10,7 @@ from pathlib import Path
 TESTING = False  # Set to True if testing on subsets of the challenge sets
     ######################## Select method type ##############################
 METHODS = ["correlation_measurement", "specification_metric"]
-METHOD_IDX = 0  # Select '0' for Method 1, '1' for for Method 2
+METHOD_IDX = 1  # Select '0' for Method 1, '1' for for Method 2
         ############# If `specification_metric` selected ###############
 # Set to `True` if testing with `Simplified` Winogender-gender-identified eval set
 WINO_G_ID = False
@@ -381,7 +381,7 @@ STOP_YEAR = 2016
 ORIGINAL_DATES = np.linspace(START_YEAR, STOP_YEAR, 30).astype(int).tolist()
 
 # UNDERSPEC PARAMS ASIDE#
-NUM_AVE_UNCERTAIN = 2
+NUM_AVE_UNCERTAIN = 1
 if UNDERSP_METRIC:
     DATES = ORIGINAL_DATES[:NUM_AVE_UNCERTAIN] + ORIGINAL_DATES[-NUM_AVE_UNCERTAIN:]
 else:
