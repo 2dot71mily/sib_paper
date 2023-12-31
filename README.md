@@ -1,5 +1,7 @@
 # Reproducing Underspecification in Language Modeling Tasks: A Causality-Informed Study of Gendered Pronoun Resolution
 
+Now accepted to AAAI 2024 Main track. Please see https://github.com/2dot71mily/uspec for most up-to-date version of this paper.
+
 Follow steps below to reproduce all data and plots.
 
 ## Interact with open source demos instead!
